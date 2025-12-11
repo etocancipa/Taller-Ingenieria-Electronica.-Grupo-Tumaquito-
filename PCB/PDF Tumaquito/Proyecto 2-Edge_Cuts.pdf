@@ -1,0 +1,543 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄}QAnƒ0ºÔ+¸Ñ1ÛÇJ=∂O»°R’Ω¥á~øŒ∆Ü$çVQî‡a∆ÉÄ®îp}‚wπßú^˚˚πu“˜«¯y{I
+K˙Ω˝Î]T≤Å¥⁄áπT,`E[CS(D≠‘tø5j Äπ*üz_«ôí1£qÔ8üıNúÔBãAüÕ]©†µ˝êFêtOQ®I2’≤~’JÜ‹qUvºÙäaä	 b`¡‡x€±Ï*ò4D+∆ÜZB¡÷u}„Ï…¡í~.œ)n≠H?>Ÿ≤–Œ'ØWÎ*&ü>1\8√ƒc«≤´‘å´∆…–àewóáWüp›É·‰„⁄≠"1Rç ñâbÌJ"U≈÷øeó™Ê.nó™f¶ºK5º˜®l…8√#7ﬂ0Ru£;ıç≥'œ}F™^ôÃ-3≥©"Rù*}b∏pÜâ˝∆£≤e‚#3ﬂ·©∫
+üò∫√…«Íˆ.˝Í˝
+endstream
+endobj
+6 0 obj
+352
+endobj
+19 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R]
+endobj
+20 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 19 0 R>>
+endobj
+21 0 obj
+<</S /GoTo /D [20 0 R /Fit]
+>>
+endobj
+24 0 obj
+<</S /GoTo /D [20 0 R /FitR 345 543 459 392]
+>>
+endobj
+26 0 obj
+<</S /GoTo /D [20 0 R /FitR 488 608 622 110]
+>>
+endobj
+28 0 obj
+<</S /GoTo /D [20 0 R /FitR 554 527 613 457]
+>>
+endobj
+30 0 obj
+<</S /GoTo /D [20 0 R /FitR 555 259 613 182]
+>>
+endobj
+32 0 obj
+<</S /GoTo /D [20 0 R /FitR 295 534 353 448]
+>>
+endobj
+34 0 obj
+<</S /GoTo /D [20 0 R /FitR 296 261 355 183]
+>>
+endobj
+36 0 obj
+<</S /GoTo /D [20 0 R /FitR 405 297 549 195]
+>>
+endobj
+38 0 obj
+<</S /GoTo /D [20 0 R /FitR 311 400 385 339]
+>>
+endobj
+40 0 obj
+<</S /GoTo /D [20 0 R /FitR 324 522 370 409]
+>>
+endobj
+42 0 obj
+<</S /GoTo /D [20 0 R /FitR 348 299 436 191]
+>>
+endobj
+44 0 obj
+<</S /GoTo /D [20 0 R /FitR 313 321 376 277]
+>>
+endobj
+46 0 obj
+<</S /GoTo /D [20 0 R /FitR 396 568 557 267]
+>>
+endobj
+48 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+49 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+50 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+51 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 48 0 R
+    /KicadFontI 49 0 R
+    /KicadFontB 50 0 R
+    /KicadFontBI 51 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [379.05 440.245 425.964 505.584]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = RV1"],
+["Value = 66k"],
+["Footprint = Potentiometer_Piher_T-16H_Single_Horizontal"],
+["Datasheet = ~"],
+["Description = Potentiometer"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [527.527 235.117 589.067 484.367]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = BT1"],
+["Value = Battery"],
+["Footprint = BatteryHolder_Keystone_1042_1x18650"],
+["Datasheet = ~"],
+["Description = Multiple-cell battery"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [574.37 474.894 594.071 494.595]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = H1"],
+["Value = MountingHole"],
+["Footprint = MountingHole_3.2mm_M3"],
+["Datasheet = ~"],
+["Description = Mounting Hole without connection"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [574.654 216.375 594.354 236.076]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = H2"],
+["Value = MountingHole"],
+["Footprint = MountingHole_3.2mm_M3"],
+["Datasheet = ~"],
+["Description = Mounting Hole without connection"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [315 476.028 334.701 495.729]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = H3"],
+["Value = MountingHole"],
+["Footprint = MountingHole_3.2mm_M3"],
+["Datasheet = ~"],
+["Description = Mounting Hole without connection"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [316.417 217.792 336.118 237.493]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = H4"],
+["Value = MountingHole"],
+["Footprint = MountingHole_3.2mm_M3"],
+["Datasheet = ~"],
+["Description = Mounting Hole without connection"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [441.468 220.613 513.808 264.153]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U2"],
+["Value = mh-cd42"],
+["Footprint = mh-cd42"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [334.843 365.194 359.504 375.398]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = Conductividad"],
+["Footprint = PinSocket_1x03_P2.54mm_Vertical"],
+["Datasheet = ~"],
+["Description = Generic connector, single row, 01x03, script generated"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [342.213 442.721 352.417 488.926]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = PH Sensor"],
+["Footprint = PinSocket_1x06_P2.54mm_Vertical"],
+["Datasheet = ~"],
+["Description = Generic connector, single row, 01x06, script generated"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [381.657 218.217 414.638 263.713]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J4"],
+["Value = Barrel_Jack_Switch"],
+["Footprint = BarrelJack_Horizontal"],
+["Datasheet = ~"],
+["Description = DC Barrel Jack with an internal switch"],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [334.83 292.629 359.491 302.834]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J3"],
+["Value = Turbidez"],
+["Footprint = PinSocket_1x03_P2.54mm_Vertical"],
+["Datasheet = ~"],
+["Description = Generic connector, single row, 01x03, script generated"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [436.483 342.618 517.271 493.356]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U3"],
+["Value = ~"],
+["Footprint = ESP32_30pin"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+20 0 R
+]
+/Count 1
+>>
+endobj
+52 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20251126193431)
+/Creator (PCBNEW)
+/Title (Proyecto 2-Edge_Cuts.pdf)
+/Author ()
+/Subject ()
+>>
+endobj
+27 0 obj
+<<
+/Title (BT1)
+/Parent 23 0 R
+/Next 29 0 R
+/A 26 0 R
+>>
+endobj
+29 0 obj
+<<
+/Title (H1)
+/Parent 23 0 R
+/Next 31 0 R
+/Prev 27 0 R
+/A 28 0 R
+>>
+endobj
+31 0 obj
+<<
+/Title (H2)
+/Parent 23 0 R
+/Next 33 0 R
+/Prev 29 0 R
+/A 30 0 R
+>>
+endobj
+33 0 obj
+<<
+/Title (H3)
+/Parent 23 0 R
+/Next 35 0 R
+/Prev 31 0 R
+/A 32 0 R
+>>
+endobj
+35 0 obj
+<<
+/Title (H4)
+/Parent 23 0 R
+/Next 41 0 R
+/Prev 33 0 R
+/A 34 0 R
+>>
+endobj
+41 0 obj
+<<
+/Title (J1)
+/Parent 23 0 R
+/Next 39 0 R
+/Prev 35 0 R
+/A 40 0 R
+>>
+endobj
+39 0 obj
+<<
+/Title (J2)
+/Parent 23 0 R
+/Next 45 0 R
+/Prev 41 0 R
+/A 38 0 R
+>>
+endobj
+45 0 obj
+<<
+/Title (J3)
+/Parent 23 0 R
+/Next 43 0 R
+/Prev 39 0 R
+/A 44 0 R
+>>
+endobj
+43 0 obj
+<<
+/Title (J4)
+/Parent 23 0 R
+/Next 25 0 R
+/Prev 45 0 R
+/A 42 0 R
+>>
+endobj
+25 0 obj
+<<
+/Title (RV1)
+/Parent 23 0 R
+/Next 37 0 R
+/Prev 43 0 R
+/A 24 0 R
+>>
+endobj
+37 0 obj
+<<
+/Title (U2)
+/Parent 23 0 R
+/Next 47 0 R
+/Prev 25 0 R
+/A 36 0 R
+>>
+endobj
+47 0 obj
+<<
+/Title (U3)
+/Parent 23 0 R
+/Prev 37 0 R
+/A 46 0 R
+>>
+endobj
+23 0 obj
+<<
+/Title (Footprints)
+/Parent 22 0 R
+/Count -12
+/First 27 0 R
+/Last 47 0 R
+/A 21 0 R
+>>
+endobj
+22 0 obj
+<<
+/Title (Edge.Cuts \(Page 9\))
+/Parent 53 0 R
+/Count -1
+/First 23 0 R
+/Last 23 0 R
+/A 21 0 R
+>>
+endobj
+53 0 obj
+<< /Type /Outlines
+   /Count 14
+   /First 22 0 R
+   /Last 22 0 R
+>>
+endobj
+54 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 53 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 55
+0000000000 65535 f 
+0000006720 00000 n 
+0000002031 00000 n 
+0000002144 00000 n 
+0000006041 00000 n 
+0000000015 00000 n 
+0000000441 00000 n 
+0000002165 00000 n 
+0000002489 00000 n 
+0000002818 00000 n 
+0000003147 00000 n 
+0000003478 00000 n 
+0000003805 00000 n 
+0000004136 00000 n 
+0000004377 00000 n 
+0000004741 00000 n 
+0000005101 00000 n 
+0000005444 00000 n 
+0000005802 00000 n 
+0000000460 00000 n 
+0000000559 00000 n 
+0000000763 00000 n 
+0000008033 00000 n 
+0000007928 00000 n 
+0000000810 00000 n 
+0000007685 00000 n 
+0000000874 00000 n 
+0000006932 00000 n 
+0000000938 00000 n 
+0000007005 00000 n 
+0000001002 00000 n 
+0000007090 00000 n 
+0000001066 00000 n 
+0000007175 00000 n 
+0000001130 00000 n 
+0000007260 00000 n 
+0000001194 00000 n 
+0000007771 00000 n 
+0000001258 00000 n 
+0000007430 00000 n 
+0000001322 00000 n 
+0000007345 00000 n 
+0000001386 00000 n 
+0000007600 00000 n 
+0000001450 00000 n 
+0000007515 00000 n 
+0000001514 00000 n 
+0000007856 00000 n 
+0000001578 00000 n 
+0000001685 00000 n 
+0000001800 00000 n 
+0000001912 00000 n 
+0000006780 00000 n 
+0000008147 00000 n 
+0000008231 00000 n 
+trailer
+<< /Size 55 /Root 54 0 R /Info 52 0 R >>
+startxref
+8372
+%%EOF

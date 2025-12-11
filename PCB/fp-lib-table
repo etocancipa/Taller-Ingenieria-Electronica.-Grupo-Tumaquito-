@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32-30-pin")(type "KiCad")(uri "${KIPRJMOD}/Librerias")(options "")(descr ""))
+  (lib (name "cd42foot")(type "KiCad")(uri "${KIPRJMOD}/Librerias/kicad-cd42-lib-main/cd42.pretty")(options "")(descr ""))
+  (lib (name "Trueesp32_devkit")(type "KiCad")(uri "${KIPRJMOD}/Librerias/ESP32-DevKit-V1-DOIT-main/ESP32_Footprints.pretty")(options "")(descr ""))
+)
