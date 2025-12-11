@@ -1,4 +1,4 @@
-CODIGO APLICACIÓN Y ESP32:
+# CODIGO APLICACIÓN Y ESP32:
 
 El proyecto cuenta con una configuración para la ESP32 que pueda leer las señales analogicas.
 
