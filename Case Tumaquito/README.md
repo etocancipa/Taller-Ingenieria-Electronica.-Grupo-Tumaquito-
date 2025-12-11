@@ -1,4 +1,4 @@
-BOCETO Y MODELADO:
+# BOCETO Y MODELADO:
 
 Aqui tendras el boceto hecho en tinkercard que se uso para el modelado
 
